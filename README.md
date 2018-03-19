@@ -1,1 +1,1 @@
-Scrapping all this junk.
+A fresh readme.
